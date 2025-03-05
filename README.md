@@ -56,7 +56,7 @@
 
   <section class="gallery">
     <div class="video">
-      <iframe src="https://vimeo.com/1060237821/65583fa89f" allowfullscreen></iframe>
+      <iframe src="https://youtu.be/nSuFbiDSQcY?si=8qc8MD-7tOeIiYda" allowfullscreen></iframe>
       <p>Video 1: Breve descripción aquí.</p>
     </div>
     <div class="video">

@@ -56,7 +56,7 @@
 
   <section class="gallery">
     <div class="video">
-      <iframe src="https://www.dailymotion.com/video/k3UoApU4ObzIYACBuvU" allowfullscreen></iframe>
+      <iframe src="https://youtu.be/x-OcjprCZAI?si=ZWxNwd_X_0r4CrRr" allowfullscreen></iframe>
       <p>Video 1: Breve descripción aquí.</p>
     </div>
     <div class="video">

@@ -56,7 +56,7 @@
 
   <section class="gallery">
     <div class="video">
-      <iframe src="https://www.youtube.com/embed/TU_VIDEO_1" allowfullscreen></iframe>
+      <iframe src="https://vimeo.com/1060237821/65583fa89f" allowfullscreen></iframe>
       <p>Video 1: Breve descripción aquí.</p>
     </div>
     <div class="video">

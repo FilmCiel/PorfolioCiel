@@ -66,7 +66,7 @@
   </section>
 
   <footer>
-    <p>© 2025 - Mi Portafolio | Contacto: <a href="mailto:tucorreo@example.com">tucorreo@example.com</a></p>
+    <p>© 2025 - Mi Portafolio | Contacto: <a href="mailto:Cielfilmss@gmail.com">tucorreo@example.com</a></p>
   </footer>
 </body>
 </html>

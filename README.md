@@ -60,7 +60,7 @@
       <p>Video 1: Breve descripción aquí.</p>
     </div>
     <div class="video">
-      <iframe src="https://www.youtube.com/embed/TU_VIDEO_2" allowfullscreen></iframe>
+      <iframe src="https://www.dailymotion.com/video/k3UoApU4ObzIYACBuvU" allowfullscreen></iframe>
       <p>Video 2: Breve descripción aquí.</p>
     </div>
   </section>
